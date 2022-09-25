@@ -211,12 +211,6 @@ header .hidden-menu{
     #demo .box .wrap-card .card{
         height: 100%;
     }
-    
-    #phone-photo{
-        position: relative;
-        top: 2rem;
-        left: 0;
-    }
 
 }
 
@@ -234,10 +228,6 @@ header .hidden-menu{
         display: flex;
         justify-content: center;
         align-items: flex-end;
-    }
-
-    #phone-photo{
-        position: static;
     }
     
 }
